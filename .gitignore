@@ -1,1 +1,6 @@
 /.vs/
+/packages/
+/FirstMvcApp/bin/
+/FirstMvcApp/obj/
+/FirstMvcApp.VSTest/bin/
+/FirstMvcApp.VSTest/obj/
